@@ -1,0 +1,3 @@
+[submodule "koncerti-frontend"]
+	path = koncerti-frontend
+	url = https://github.com/nabilayumnan/koncerti.git
