@@ -1,7 +1,3 @@
-Here's a "pretty" and copy-pasteable README for your Koncerti application, ready to enhance your repository\!
-
------
-
 # Koncerti 🎶
 
 ## Your Ultimate Concert Experience Platform
@@ -117,7 +113,9 @@ This project is open-sourced under the **MIT License**. For full details, see th
 
 A huge shout-out to the talents who made Koncerti possible:
 
-  * **[Your Name/Alias](Your Profile URL or Email)** - Initial development & lead architect
-  * **[Another Contributor's Name/Alias](Another Profile URL or Email)** - (e.g., Frontend enhancements, API integrations)
+  * **Benedicta Edita - PM & UIUX Designer**
+  * **Nabila Yumna N - Fullstack Developer** 
+  * **La Tania Nur Tenka - UI/UX Designer**
+  * **Rr. Garzetta - UI/UX Designer**
 
 -----
