@@ -113,7 +113,7 @@ This project is open-sourced under the **MIT License**. For full details, see th
 
 A huge shout-out to the talents who made Koncerti possible:
 
-  * **Benedicta Edita - PM & UIUX Designer**
+  * **Benedicta Edita - PM & Database Manager**
   * **Nabila Yumna N - Fullstack Developer** 
   * **La Tania Nur Tenka - UI/UX Designer**
   * **Rr. Garzetta - UI/UX Designer**
